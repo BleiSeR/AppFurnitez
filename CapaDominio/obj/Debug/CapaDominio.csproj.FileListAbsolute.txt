@@ -1,0 +1,12 @@
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaDominio\bin\Debug\CapaDominio.dll
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaDominio\bin\Debug\CapaDominio.pdb
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaDominio\obj\Debug\CapaDominio.dll
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaDominio\obj\Debug\CapaDominio.pdb
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaDominio\bin\Debug\CapaDominio.dll
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaDominio\bin\Debug\CapaDominio.pdb
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaDominio\obj\Debug\CapaDominio.dll
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaDominio\obj\Debug\CapaDominio.pdb

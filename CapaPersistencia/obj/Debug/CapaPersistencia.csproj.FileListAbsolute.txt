@@ -1,0 +1,18 @@
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaPersistencia\bin\Debug\CapaDominio.dll
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaPersistencia\bin\Debug\CapaDominio.pdb
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.AssemblyReference.cache
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CopyComplete
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+D:\Mis Proyectos\Programación\Solución_Furnitez\CapaPersistencia\obj\Debug\CapaPersistencia.pdb
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaPersistencia\bin\Debug\CapaDominio.dll
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaPersistencia\bin\Debug\CapaDominio.pdb
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.AssemblyReference.cache
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CopyComplete
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+D:\PROYECTOS VISUAL STUDIO 2022\ProyectoFurnitez\CapaPersistencia\obj\Debug\CapaPersistencia.pdb
